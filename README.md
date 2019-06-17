@@ -8,4 +8,5 @@
 + 本项目主要为前端开发者设计，使他们能够轻松创建功能完整的网站。  
 
 **WIll be opensourced after the 1.0 version released.**
+
 **项目文件将于1.0版本发布后放出**
